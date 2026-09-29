@@ -118,7 +118,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 | Comprobación | Registro |
 |---|---|
 | Autorización o modalidad asignada | Real autorizada |
-| PNT, fuente o material docente consultado |[UT Southwestern Medical Center, Osmosis Demonstration Lab (PDF)]|
+| PNT, fuente o material docente consultado |UT Southwestern Medical Center, Osmosis Demonstration Lab (PDF)|
 | Equipo/material realmente utilizado | Bote, probeta, cuchillo, patata, NaCl, bascula, cucharilla,agua destilada, varilla, vidrio de reloj, papel absorbente y de filtro, vaso de precipitado y regla   |
 | Medidas de seguridad aplicadas | Completa |
 | Condición de los datos (real/simulada/documental) | Real |
