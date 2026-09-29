@@ -1,0 +1,71 @@
+site_name: Prácticas TAH
+site_description: Cuaderno digital de prácticas de Técnicas de análisis hematológico (módulo 1374)
+site_author: IES Sáenz de Buruaga
+theme:
+  name: material
+  language: es
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+validation:
+  links:
+    # Las rutas de evidencias son marcadores que el alumnado completará después.
+    not_found: ignore
+nav:
+  - Cuaderno: index.md
+  - Evidencias visuales: assets/README.md
+  - Prácticas:
+      - "P01 · Ósmosis en patata: modelo de tonicidad": practicas-generadas/P01_Osmosis_en_patata_modelo_de_tonicidad.md
+      - "P02 · Separación de componentes sanguíneos por centrifugación": practicas-generadas/P02_Separacion_componentes_sanguineos_centrifugacion.md
+      - "P03 · Preparación de extensión sanguínea": practicas-generadas/P03_Preparacion_extension_sanguinea.md
+      - "P04 · Tinción panóptico rápido": practicas-generadas/P04_Tincion_panoptico_rapido.md
+      - "P05 · Tinción de Giemsa": practicas-generadas/P05_Tincion_Giemsa.md
+      - "P06 · Tinción de May-Grünwald-Giemsa": practicas-generadas/P06_Tincion_May_Grunwald_Giemsa.md
+      - "P07 · Tinción de Wright": practicas-generadas/P07_Tincion_Wright.md
+      - "P08 · Recuento manual de hematíes": practicas-generadas/P08_Recuento_manual_hematies.md
+      - "P09 · Recuento manual de leucocitos": practicas-generadas/P09_Recuento_manual_leucocitos.md
+      - "P10 · Fórmula leucocitaria": practicas-generadas/P10_Formula_leucocitaria.md
+      - "P11 · Determinación del hematocrito": practicas-generadas/P11_Determinacion_hematocrito.md
+      - "P12 · Cálculo de índices eritrocitarios": practicas-generadas/P12_Calculo_indices_eritrocitarios.md
+      - "P13 · Fragilidad osmótica eritrocitaria: análisis de datos": practicas-generadas/P13_Fragilidad_osmotica_eritrocitaria_analisis_datos.md
+      - "P14 · Detección de cuerpos de Heinz": practicas-generadas/P14_Deteccion_cuerpos_Heinz.md
+      - "P15 · Autoanalizador hematológico: flujo, alarmas e informe": practicas-generadas/P15_Autoanalizador_hematologico_flujo_alarmas_informe.md
+      - "P16 · Serie plaquetar: índices y revisión de hallazgos": practicas-generadas/P16_Serie_plaquetar_indices_revision_hallazgos.md
+      - "P17 · Hemostasia y coagulación: selección e interpretación de pruebas": practicas-generadas/P17_Hemostasia_coagulacion_seleccion_interpretacion.md
+      - "P18 · Compatibilidad ABO/Rh y pruebas pretransfusionales: caso simulado": practicas-generadas/P18_Compatibilidad_ABO_Rh_pruebas_pretransfusionales_caso.md
+      - "P19 · Banco de sangre y hemoderivados: trazabilidad documental": practicas-generadas/P19_Banco_sangre_hemoderivados_trazabilidad_documental.md
+      - "P20 · Riesgo, protección y residuos en prácticas hematológicas": practicas-generadas/P20_Riesgo_proteccion_residuos_practicas_hematologicas.md
