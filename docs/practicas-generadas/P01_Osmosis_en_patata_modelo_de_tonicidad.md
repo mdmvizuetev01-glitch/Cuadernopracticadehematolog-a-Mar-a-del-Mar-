@@ -104,12 +104,12 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** María del Mar VIzuete
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Fecha real de realización:** 29-09-2026
+- **Grupo:** 2ºLCB
+- **Pareja de trabajo, si procede:** Sofía,Marta,Susana,Leire
+- **Rol o tarea principal:** Técnico de laboratorio
+- **Modalidad realmente realizada:** real autorizada
+- **Código o descripción del material/dataset:** 
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -117,17 +117,18 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad asignada | [Completa] |
-| PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
-| Medidas de seguridad aplicadas | [Completa o «No aplica»] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Autorización o modalidad asignada | Real autorizada |
+| PNT, fuente o material docente consultado |[UT Southwestern Medical Center, Osmosis Demonstration Lab (PDF)]|
+| Equipo/material realmente utilizado | Bote, probeta, cuchillo, patata, NaCl, bascula, cucharilla,agua destilada, varilla, vidrio de reloj, papel absorbente y de filtro, vaso de precipitado y regla   |
+| Medidas de seguridad aplicadas | Completa |
+| Condición de los datos (real/simulada/documental) | Real |
 
 ### 8.2 Hipótesis u observación inicial
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
-
-[Escribe aquí tu hipótesis u observación inicial.]
+Las 3 porciones de patata que se encuentran en el agua sin sal aumentaran su tamaño debido a que el agua destilada tiene muy pocos solutos. El agua entrará desde el exterior hacia las células de las patatas.
+Las 3 porciones que van en el agua destilada con la sal, el recipiente tiene mas concentración de solutos que el interior de las células que hay en la patata.
+El agua saldrá hacia el exterior de la célula de la patata
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
