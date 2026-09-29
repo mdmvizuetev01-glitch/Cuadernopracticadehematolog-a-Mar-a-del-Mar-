@@ -103,7 +103,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
+- **Nombre y apellidos:** María del Mar VIzuete
 - **Fecha real de realización:** [dd/mm/aaaa]
 - **Grupo:** [Indica tu grupo]
 - **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
