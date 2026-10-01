@@ -239,8 +239,7 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué parte del procedimiento te ha resultado más compleja y cómo lo solucionaste o afrontaste?
 
-   [Respuesta del alumnado]
-
+ Me ha resultado más complicado después de haber sacado las porciones de patata de los botes tras 48 h
 **2. Interpretación:** ¿Qué ha ocurrido en la patata tras 24 horas en las diferentes soluciones? ¿Por qué?
 
    [Respuesta del alumnado]
