@@ -136,17 +136,17 @@ El agua saldrá hacia el exterior de la célula de la patata
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Identificación y procedencia | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Material, imagen o datos legibles | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Gestión de residuos generados | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Identificación y procedencia | Identifiqué las muestras de patatas y las disoluciones que utilice. Comprobe que cada muestra estuviera correctamentei identificada  | [Sí / No / Parcial] | [] |
+| Material, imagen o datos legibles | Registré las masas iniciales y finales y anoté mis observaciones | [Sí | Pude leer y comparar correctamente los datos obtenidos |
+| Gestión de residuos generados | [Completa] | Sí | Recogí los restos de patatas y las disoluciones al terminar las prácticas.  |
 
 ### 9.2 Registro de observaciones o cálculos
 
 | Observación, variable o cálculo | Dato/evidencia | Comentario |
 |---|---|---|
-| [Registro 1] | [Completa] | [Completa] |
-| [Registro 2] | [Completa] | [Completa] |
-| [Registro 3] | [Completa] | [Completa] |
+| Cambio de masa en agua  | Observe que la patata disminuyó de tamaño| Las células se pueden haber muerto y se produjo una lisis celular debido al tiempo de exposición , por lo tanto la membrana dejo de funcionar  |
+| Cambio de masa en disolución salina | Observé que la patata perdió su masa | Comprobe que el agua salio de la celula hacia la disolucion mas concentrada|
+| Relación entre concentración y masa | Observe que al aumentar la concentración de sal,dismuniyó mas la masa de la patata| Comporbe que la concentracion de la disolucion influye en el movimiento del agua por la ósmosis |
 
 ### 9.3 Resultado principal
 
@@ -219,7 +219,7 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+|En el bote con agua destilada, la patata debería haber aumentado su tamaño y su peso, y el resultado ha sido todo lo contrario |Ha habido una lisis celular debido el tiempo de exposición, por lo tanto la membrana ha dejado de funcionar| Se debe controlar más el tiempo y evitar que sea tan excesivo | Sí  |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
