@@ -109,12 +109,12 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
+- **Nombre y apellidos:** María del Mar Vizuete
+- **Fecha real de realización:** 6-10-2026
+- **Grupo:** 2º LCB 
+- **Pareja de trabajo, si procede:** Sofía
+- **Rol o tarea principal:** Técnico de laboratorio 
+- **Modalidad realmente realizada:** Real autorizada
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -123,19 +123,19 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 | Comprobación | Registro |
 |---|---|
-| Autorización de muestra real y código anónimo | [Completa sin datos del donante] |
-| Procedimiento de centrifugación aplicado | [PNT local: código/versión/fecha; o protocolo OMS si no existe PNT] |
-| Evaluación de riesgos y bioseguridad | [Medidas definidas con manual OMS y requisitos del centro; o modalidad alternativa] |
-| Compatibilidad tubo–rotor–centrífuga | [Marca/referencia del tubo, modelo, rotor y adaptador] |
-| RCF, tiempo, temperatura y freno aplicados | [Transcribe del PNT o del protocolo OMS si no existe; indica fuente] |
-| Protección, contención y gestión de residuos | [Completa o indica alternativa] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Autorización de muestra real y código anónimo | E001026048443 |
+| Procedimiento de centrifugación aplicado| OMS, *Use of anticoagulants in diagnostic laboratory investigations*, WHO/DIL/LAB/99.1 Rev. 2(  |
+| Evaluación de riesgos y bioseguridad | Manipulación de sangre como material potencialmente biológico. Uso de bata, guantes y protección ocular; evitar salpicaduras y contacto directo. Desinfección de la superficie y eliminación de residuos biológicos según el protocolo del centro. | 
+| Compatibilidad tubo–rotor–centrífuga | Nahita/E0010260486343, 2645, rotor y adaptador] |
+| RCF, tiempo, temperatura y freno aplicados |2000-3000 x g, 15 min, 15-24; fuente protocolo de la practica |
+| Protección, contención y gestión de residuos |Mantener el tubo cerrado excepto cuando se vaya a trabajar con el, utilizar todos los EPIS necesarios como es la bata, guantes , guardar los tubos en el frigorífico  |
+| Condición de los datos real | [Completa] |
 
 ### 8.2 Hipótesis u observación inicial
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+Espero observar la separación de los componentes de la sangre en tres partes. La primera es la capa del plasma la segunda la leucocitaria y la tercera la eritrocitaria.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -143,10 +143,10 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Autorización, código anónimo y procedencia docente | [Completa] | [Sí / No / Parcial] | [Completa sin datos identificativos] |
-| Integridad del tubo y compatibilidad con rotor/adaptador | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Parámetros transcritos del PNT o protocolo OMS y equilibrado | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Transferencia, residuos y descontaminación según procedimiento y evaluación | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Autorización, código anónimo y procedencia docente | Autorización total E001026048643Banco de Sangre de Extremadura | Si | Se mantuvo la confidencialidad y la muestra procedia del banco de sangre  |
+| Integridad del tubo y compatibilidad con rotor/adaptador | Tubo en buen estado y bien colocado en el rotor  | Si| No se observaron daños y el tubo era compatible con el equipo |
+| Parámetros transcritos del PNT o protocolo OMS y equilibrado|  Parámetros de centrifugación anotados y tubos equilibrados antes de centrifugar | Si |Se siguio el procedimiento establecido y se realizo un equilibrado adecuado |
+| Transferencia, residuos y descontaminación según procedimiento y evaluación | Manipulación de la muestra y eliminación de residuos según el procedimiento  |Si | Se siguieron las normas de seguridad y descontaminación establecidas |
 
 ### 9.2 Registro de observaciones o cálculos
 
