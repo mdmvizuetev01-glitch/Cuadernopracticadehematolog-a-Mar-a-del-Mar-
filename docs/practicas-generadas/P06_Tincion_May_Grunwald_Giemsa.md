@@ -1,10 +1,11 @@
+
 ---
 title: "P06 — Tinción de May-Grünwald-Giemsa"
 practice_id: "P06"
 unit: "UD1"
 learning_outcomes: "RA01"
 assessment_criteria: "CE01.c, CE01.d, CE01.e, CE01.f"
-practice_status: "CONDITIONAL"
+practice_status: "REAL"
 page_type: practical-notebook
 student_completion: individual
 reference_document: "PRACTICAL_PROGRAM.md — P06"
@@ -12,7 +13,7 @@ reference_document: "PRACTICAL_PROGRAM.md — P06"
 
 # P06 — Tinción de May-Grünwald-Giemsa
 
-> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]**. La modalidad inicial es **CONDITIONAL** según el programa canónico. Una demostración, imagen o conjunto de datos no acredita una ejecución real.
+> **Modalidad:** Práctica real en el laboratorio del centro educativo, bajo supervisión docente y con aplicación de las normas de seguridad y gestión de residuos del centro.
 
 ## 1. Identificación de la práctica
 
@@ -23,12 +24,12 @@ reference_document: "PRACTICAL_PROGRAM.md — P06"
 | Resultado(s) de aprendizaje | `RA01` |
 | Criterios de evaluación | `CE01.c, CE01.d, CE01.e, CE01.f` |
 | Agrupamiento | Trabajo guiado; interpretación, registro y reflexión individuales. |
-| Modalidad prevista | Comparación documental o visual por defecto; tinción solo con productos compatibles y autorización local. |
-| Estado de ejecución | **CONDITIONAL**; no equivale a autorización del centro. |
+| Modalidad prevista | Real en el laboratorio del centro educativo. |
+| Estado de ejecución | **REAL**; práctica presencial supervisada. |
 
 ## 2. Resumen
 
-Comparar la tinción combinada con otras preparaciones hematológicas sin mezclar secuencias ni protocolos. Comparación documental o visual por defecto; tinción solo con productos compatibles y autorización local. Registrarás observaciones, cálculos o decisiones como datos reales, simulados o documentales según corresponda, y mantendrás explícitos los límites de interpretación.
+Realizar una extensión sanguínea y aplicar la tinción de May-Grünwald-Giemsa en el laboratorio del centro. Registrarás observaciones y resultados reales, con trazabilidad y límites de interpretación.
 
 ## 3. Finalidad y resultados esperados
 
@@ -44,45 +45,44 @@ Al finalizar deberás poder:
 
 ## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** Comparación documental o visual por defecto; tinción solo con productos compatibles y autorización local. El equipo, los reactivos, los materiales y su disponibilidad deben confirmarse antes de la sesión.
+**Recursos previstos:** Portaobjetos y portaobjetos biselado, lancetas o muestra de sangre anticoagulada con EDTA, capilares microhematocrito heparinizados, cristalizador, puente de tinción, pipetas Pasteur, frasco lavador, EPI, colorantes May-Grünwald y Giemsa, agua/tampón, microscopio óptico y aceite de inmersión.
 
-**Riesgos y límites:** La fijación, reactivos, ventilación y residuos dependen de kit, FDS y evaluación local. Las fuentes docentes no son autorización para una ejecución real.
-
-> **Aviso de seguridad.** La ficha conserva el estado **CONDITIONAL** del programa. La aprobación de diseño no autoriza por sí misma la ejecución. Si faltan PNT, evaluación de riesgos, recursos, supervisión o autorización local, utiliza exclusivamente la modalidad alternativa indicada por el profesorado.
+**Seguridad y residuos:** La sangre se considerará potencialmente infecciosa. Usar EPI, consultar las FDS de los colorantes (incluido el metanol) y seguir las normas del centro. Segregar los residuos químicos, biológicos y punzocortantes; no verter colorantes al desagüe.
 
 ## 5. Fundamento técnico
 
-May-Grünwald-Giemsa combina colorantes Romanowsky y permite valorar componentes celulares en frotis. La calidad depende de extensión, reactivos, agua/tampón y condiciones del protocolo validado.
-
-Las fuentes enlazadas apoyan el fundamento o el control de calidad indicado; no sustituyen el PNT del centro ni autorizan parámetros que no documenten. Si no existe un procedimiento público aplicable al producto/equipo concreto, se indica expresamente y se reserva la ejecución para una validación local.
+La técnica combina colorantes Romanowsky. La eosina Y es un colorante ácido/aniónico que se une a componentes celulares básicos y proteínas, como la hemoglobina y proteínas citoplasmáticas, dando tonos rosados o rojizos a los eritrocitos y gránulos eosinófilos. El azul de metileno y sus derivados azures son colorantes básicos/catiónicos: se unen a componentes ácidos, en especial ADN y ARN de núcleos y ribosomas, que aparecen azulados o violáceos. La interacción entre eosina y azures produce el efecto Romanowsky, con tonos púrpura en cromatina y gránulos azurófilos. El metanol de May-Grünwald fija la extensión al desnaturalizar/precipitar proteínas. El pH influye en el equilibrio de coloración y contraste.
 
 ## 6. Procedimiento y controles de calidad
 
 ### Procedimiento base
 
-Examina láminas comparables → registra procedencia y calidad → compara contraste/artefactos → reconstruye la secuencia documental sin convertirla en receta local.
+Extensión sanguínea → secado al aire → May-Grünwald (fijación/tinción) → lavado → Giemsa → lavado → secado → observación microscópica → registro → segregación de residuos.
 
 ### Procedimiento específico
 
-Los pasos siguientes describen una ruta didáctica segura. Para cualquier operación húmeda, reactivo o equipo, el PNT local y las instrucciones vigentes del fabricante prevalecen; si no están confirmados, usa imagen, caso o datos simulados.
+Secuencia adaptada al procedimiento docente y contrastada con procedimientos publicados. Los tiempos varían entre fabricantes; sigue el inserto del producto empleado y las indicaciones del docente.
 
-**Fuente técnica de referencia (no constituye un PNT específico):** [SEHH, Manual del médico residente de Hematología: preparación y tinción de frotis](https://www.sehh.es/images/stories/recursos/2015/virtual/Manual_Medico_Residente_Hematologia_2015.pdf). El manual de la SEHH describe fundamentos de la tinción May-Grünwald-Giemsa en hematología, pero no es el PNT del kit disponible en el centro. No se ha identificado en esta ficha un SOP público específico para el producto; sigue el inserto y procedimiento local validados.
+1. Colócate los EPI. Sitúa el puente de tinción sobre un cristalizador con agua en el fondo para evitar que los colorantes se adhieran a la batea.
+2. Realiza la extensión de sangre en un portaobjetos limpio y déjala secar al aire.
+3. Prepara extemporáneamente la solución de trabajo de Giemsa siguiendo las indicaciones del fabricante y las instrucciones de la práctica P05. Identifica la solución preparada y respeta las medidas de seguridad y el tiempo de uso indicados.
+4. Coloca el portaobjetos horizontal sobre el puente y cubre la extensión con colorante May-Grünwald durante **2–3 min**.
+5. Lava con agua y deja la extensión cubierta con agua durante **1 min**.
+6. Sin escurrir ni dejar secar, añade **12–14 gotas de la solución de trabajo de Giemsa recién preparada** y distribúyela suavemente con pera o pipeta Pasteur. Deja actuar **10–15 min**.
+7. Lava con abundante agua destilada hasta retirar el exceso de colorante y deja secar al aire.
+8. Observa la preparación al microscopio óptico. Identifica y describe los distintos elementos formes (células) presentes en la sangre y su coloración.
+9. Gestiona los residuos: soluciones y colorantes como residuos químicos según sus FDS y la norma del centro; material con sangre como residuo biológico; lancetas y otros punzantes en contenedor rígido de punzocortantes. No mezcles residuos ni viertas reactivos al desagüe. Limpia la zona y retira los EPI según el protocolo del centro.
 
-1. Selecciona imágenes o láminas autorizadas y registra su procedencia.
-2. Comprueba que las preparaciones sean comparables en tipo de muestra, zona y calidad.
-3. Describe la secuencia general indicada en la documentación del kit, sin añadir parámetros ausentes.
-4. Compara tonalidad, contraste, conservación celular y precipitados entre las preparaciones.
-5. Anota qué diferencias pueden deberse a la tinción y cuáles a la extensión o captura.
-6. Si hay ejecución, verifica autorización, compatibilidad de productos, FDS y PNT antes de comenzar.
-7. Registra estructuras visibles sin inferencia clínica y etiqueta imágenes simuladas o docentes.
-8. Guarda material y gestiona reactivos según instrucciones del centro.
+**Referencias de procedimiento:** BioGnost. (2025). *May-Gruenwald solution: Instructions for use* (MG-IFU EN12, 09.04.2025), apartados A3–A4 (método Pappenheim) y seguridad/medio ambiente. [PDF](https://www.biognost.com/wp-content/uploads/2020/05/MAY-GRUENWALD-SOLUTION-IFU_v12-1.pdf). Merck. (s. f.). *Giemsa stain for microscopy*, sección “Pappenheim Staining of Blood Samples”. [Merck Millipore](https://www.merckmillipore.com/INTL/es/ivd-oem-materials-and-reagents/learning-center/giemsa-solution/r2ab.qB.aBwAAAFOqm81lSAJ%2Cnav). Guiguan, S. S., et al. (2015). *Technical recommendations and best practice guidelines for May-Grünwald-Giemsa staining: literature review and insights from the quality assurance*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26188673/).
 
 ### Controles de calidad
 
-- Origen de cada lámina; comparabilidad de zona y captura; productos identificados; diferencias interpretadas con cautela.
-- La fuente y la modalidad de cada imagen, registro o dato quedan identificadas.
-- Los datos simulados no se presentan como resultados de paciente ni como ejecución del alumnado.
-- Las incidencias, resultados no válidos y limitaciones se conservan en el registro.
+- Extensión homogénea y correctamente ejecutada, con **cabeza, cuerpo y cola** reconocibles; zona de lectura con distribución adecuada de células y sin acumulaciones o defectos que impidan la observación.
+- Preparación de la solución de trabajo de Giemsa en el momento de uso, según el fabricante y la práctica P05; reactivos identificados, vigentes y correctamente conservados.
+- Aplicación uniforme de May-Grünwald y Giemsa, respetando secuencia y tiempos indicados; lavado suficiente y secado completo al aire.
+- Tinción nítida y diferencial, con **contraste adecuado** entre los elementos formes y el fondo, sin precipitados, contaminación ni coloración excesiva que dificulte la morfología.
+- Observación de una zona representativa de la extensión y registro de los elementos formes identificados, su aspecto y coloración.
+- Anota incidencias o defectos observados y valora su posible efecto sobre la calidad de la preparación y la interpretación.
 
 ### Referencia técnica
 
@@ -91,7 +91,7 @@ Los pasos siguientes describen una ruta didáctica segura. Para cualquier operac
 
 Fecha de consulta de las referencias enlazadas: **28/09/2026**.
 
-Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan contexto o control de calidad, no una receta lista para ejecutar. El docente debe confirmar el PNT específico antes de autorizar un procedimiento real.
+La práctica se realiza bajo supervisión docente, siguiendo el protocolo aprobado por el centro y las instrucciones del fabricante del reactivo disponible.
 
 # Tu cuaderno de prácticas
 
@@ -109,44 +109,29 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 ### 8.1 Verificación previa
 
-| Comprobación | Registro |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
+
+| Elemento | Listado del alumnado |
 |---|---|
-| Autorización o modalidad asignada | [Completa] |
-| PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
-| Medidas de seguridad aplicadas | [Completa o «No aplica»] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-### 8.2 Hipótesis u observación inicial
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-[Escribe aquí tu hipótesis u observación inicial.]
+### 9.1 Registro de observaciones y cálculos
 
-## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### 9.1 Comprobación de calidad
-
-| Control o criterio | Evidencia observada | ¿Adecuado? | Justificación |
-|---|---|---|---|
-| Identificación y procedencia | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Material, imagen o datos legibles | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Método/fórmula/criterio aplicado | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Modalidad y límites correctamente registrados | [Completa] | [Sí / No / Parcial] | [Completa] |
-
-### 9.2 Registro de observaciones o cálculos
-
-| Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
-|---|---|---|---|---|
-| [Registro 1] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Registro 2] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Registro 3] | [Completa] | [Completa] | [Completa] | [Completa] |
-
-### 9.3 Resultado principal
-
-Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
-
-[Escribe aquí el resultado principal.]
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -163,51 +148,126 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 *Figura 1. ¿Qué materiales, fuente o condición se prepararon? Indica su procedencia y modalidad.*
 
-### Imagen 2 — Identificación y preparación
+### Imagen 2 — Extensión sanguínea
 
-- **Archivo previsto:** `../assets/P06/P06_02_identificacion.jpg`
-- **Texto alternativo:** Documenta la identificación y preparación de la muestra, el material o la fuente de trabajo.
-- **Pie de foto:** [Describe lo que se observa en Tinción de May-Grünwald-Giemsa, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P06/P06_02_extension_sanguinea.jpg`
+- **Texto alternativo:** Extensión sanguínea extendida sobre un portaobjetos antes de la tinción.
+- **Pie de foto:** [Describe la preparación de la extensión y señala si se distinguen cabeza, cuerpo y cola. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta la identificación y preparación de la muestra, el material o la fuente de trabajo.](../assets/P06/P06_02_identificacion.jpg)
+![Extensión sanguínea extendida sobre un portaobjetos antes de la tinción.](../assets/P06/P06_02_extension_sanguinea.jpg)
 
-*Figura 2. ¿Cómo se identificó y preparó el material o la fuente antes de la fase principal?*
+*Figura 2. Describe la preparación de la extensión y señala si se distinguen cabeza, cuerpo y cola. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
-### Imagen 3 — Fase principal del procedimiento
+### Imagen 3 — Procedimiento de tinción: adición de May-Grünwald
 
-- **Archivo previsto:** `../assets/P06/P06_03_procedimiento.jpg`
-- **Texto alternativo:** Documenta una fase principal del procedimiento o el análisis de la fuente asignada.
-- **Pie de foto:** [Describe lo que se observa en Tinción de May-Grünwald-Giemsa, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P06/P06_03_adicion_may_grunwald.jpg`
+- **Texto alternativo:** Adición del colorante May-Grünwald sobre la extensión sanguínea durante el procedimiento de tinción.
+- **Pie de foto:** [Documenta la adición del colorante May-Grünwald y el momento de la secuencia. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta una fase principal del procedimiento o el análisis de la fuente asignada.](../assets/P06/P06_03_procedimiento.jpg)
+![Adición del colorante May-Grünwald sobre la extensión sanguínea durante el procedimiento de tinción.](../assets/P06/P06_03_adicion_may_grunwald.jpg)
 
-*Figura 3. ¿Qué fase principal se observa y qué acción o criterio se aplicó?*
+*Figura 3. Documenta la adición del colorante May-Grünwald y el momento de la secuencia. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
-### Imagen 4 — Control, lectura o registro
+### Imagen 4 — Extensión teñida lista para observación
 
-- **Archivo previsto:** `../assets/P06/P06_04_control_lectura.jpg`
-- **Texto alternativo:** Documenta el control de calidad, la lectura o el registro de datos.
-- **Pie de foto:** [Describe lo que se observa en Tinción de May-Grünwald-Giemsa, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P06/P06_04_extension_tenida.jpg`
+- **Texto alternativo:** Extensión sanguínea teñida y seca, preparada para su observación microscópica.
+- **Pie de foto:** [Describe el aspecto general de la preparación teñida y si presenta contraste adecuado. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta el control de calidad, la lectura o el registro de datos.](../assets/P06/P06_04_control_lectura.jpg)
+![Extensión sanguínea teñida y seca, preparada para su observación microscópica.](../assets/P06/P06_04_extension_tenida.jpg)
 
-*Figura 4. ¿Qué control o lectura permite valorar la calidad del registro?*
+*Figura 4. Describe el aspecto general de la preparación teñida y si presenta contraste adecuado. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
-### Imagen 5 — Resultado final
+### Imagen 5 — Eritrocitos
 
-- **Archivo previsto:** `../assets/P06/P06_05_resultado_final.jpg`
-- **Texto alternativo:** Documenta el resultado final y la evidencia que apoya la interpretación limitada.
-- **Pie de foto:** [Describe lo que se observa en Tinción de May-Grünwald-Giemsa, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P06/P06_05_eritrocitos.jpg`
+- **Texto alternativo:** Eritrocitos observados en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe la morfología y coloración observadas en los eritrocitos. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta el resultado final y la evidencia que apoya la interpretación limitada.](../assets/P06/P06_05_resultado_final.jpg)
+![Eritrocitos observados en la extensión sanguínea teñida.](../assets/P06/P06_05_eritrocitos.jpg)
 
-*Figura 5. ¿Cuál es el resultado final y qué conclusión limitada permite sostener?*
+*Figura 5. Describe la morfología y coloración observadas en los eritrocitos. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
-Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; conserva la secuencia y la misma convención de nombres.
+### Imagen 6 — Neutrófilo
+
+- **Archivo previsto:** `../assets/P06/P06_06_neutrofilo.jpg`
+- **Texto alternativo:** Neutrófilo observado en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe los rasgos morfológicos y la coloración que permiten reconocer el neutrófilo. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Neutrófilo observado en la extensión sanguínea teñida.](../assets/P06/P06_06_neutrofilo.jpg)
+
+*Figura 6. Describe los rasgos morfológicos y la coloración que permiten reconocer el neutrófilo. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 7 — Eosinófilo
+
+- **Archivo previsto:** `../assets/P06/P06_07_eosinofilo.jpg`
+- **Texto alternativo:** Eosinófilo observado en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe los rasgos morfológicos y la coloración de los gránulos del eosinófilo. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Eosinófilo observado en la extensión sanguínea teñida.](../assets/P06/P06_07_eosinofilo.jpg)
+
+*Figura 7. Describe los rasgos morfológicos y la coloración de los gránulos del eosinófilo. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 8 — Basófilo
+
+- **Archivo previsto:** `../assets/P06/P06_08_basofilo.jpg`
+- **Texto alternativo:** Basófilo observado en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe los rasgos morfológicos y la coloración de los gránulos del basófilo. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Basófilo observado en la extensión sanguínea teñida.](../assets/P06/P06_08_basofilo.jpg)
+
+*Figura 8. Describe los rasgos morfológicos y la coloración de los gránulos del basófilo. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 9 — Monocito
+
+- **Archivo previsto:** `../assets/P06/P06_09_monocito.jpg`
+- **Texto alternativo:** Monocito observado en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe la morfología y coloración observadas en el monocito. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Monocito observado en la extensión sanguínea teñida.](../assets/P06/P06_09_monocito.jpg)
+
+*Figura 9. Describe la morfología y coloración observadas en el monocito. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 10 — Linfocito
+
+- **Archivo previsto:** `../assets/P06/P06_10_linfocito.jpg`
+- **Texto alternativo:** Linfocito observado en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe la morfología y coloración observadas en el linfocito. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Linfocito observado en la extensión sanguínea teñida.](../assets/P06/P06_10_linfocito.jpg)
+
+*Figura 10. Describe la morfología y coloración observadas en el linfocito. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 11 — Plaqueta
+
+- **Archivo previsto:** `../assets/P06/P06_11_plaqueta.jpg`
+- **Texto alternativo:** Plaqueta observada en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe el aspecto y la coloración observados en la plaqueta. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Plaqueta observada en la extensión sanguínea teñida.](../assets/P06/P06_11_plaqueta.jpg)
+
+*Figura 11. Describe el aspecto y la coloración observados en la plaqueta. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 12 — Gestión de residuos: colorantes
+
+- **Archivo previsto:** `../assets/P06/P06_12_gestion_residuos_colorantes.jpg`
+- **Texto alternativo:** Recipiente etiquetado para la segregación de residuos de colorantes conforme a las normas del centro.
+- **Pie de foto:** [Documenta la gestión de los residuos de colorantes sin mostrar datos personales ni prácticas inseguras. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Recipiente etiquetado para la segregación de residuos de colorantes conforme a las normas del centro.](../assets/P06/P06_12_gestion_residuos_colorantes.jpg)
+
+*Figura 12. Documenta la gestión de los residuos de colorantes sin mostrar datos personales ni prácticas inseguras. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -217,33 +277,37 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Comparar la tinción combinada con otras preparaciones hematológicas sin mezclar secuencias ni protocolos. Interpreta los hallazgos usando los controles y evidencias. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
+A partir de la preparación observada, indica qué células o estructuras celulares se tiñen, qué coloración presentan y por qué. Relaciona la coloración con la afinidad de los colorantes ácidos y básicos de May-Grünwald-Giemsa por los componentes celulares. Puedes considerar eritrocitos, núcleos, citoplasma, gránulos de granulocitos y plaquetas. Distingue lo observado directamente de la explicación teórica y no formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
+| Célula o estructura | Color observado | Explicación de la afinidad tintorial |
+|---|---|---|
+| [Completa] | [Completa] | [Completa] |
+
+[Continúa la tabla si es necesario.]
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué limitaciones tuvo la modalidad realmente realizada.
+Concluye qué ventajas e inconvenientes observas en la tinción de May-Grünwald-Giemsa con respecto a la tinción de Giemsa. Basa la comparación en la preparación realizada, el contraste y la diferenciación de los elementos formes, la secuencia de trabajo y cualquier limitación o incidencia observada. Distingue tus observaciones de la información teórica.
 
-[Escribe aquí tu conclusión.]
+[Escribe aquí tu conclusión comparativa.]
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Responde individualmente y relaciona cada respuesta con datos, observaciones o imágenes de esta ficha.
+Responde individualmente y relaciona cada respuesta con observaciones, resultados o decisiones de esta práctica.
 
-**1. Procedimiento:** ¿Qué decisión del flujo influyó más en la calidad del trabajo y cómo lo comprobaste?
-
-   [Respuesta del alumnado]
-
-**2. Interpretación:** ¿Qué hallazgo o cálculo requiere mayor cautela y qué otra explicación considerarías?
+**1. Procedimiento. Control del tiempo de fijación y tinción:** ¿Cómo afectó el tiempo exacto de exposición al colorante May-Grünwald (fijación con metanol) a la adherencia de la muestra o al contraste final?
 
    [Respuesta del alumnado]
 
-**3. Conclusiones:** ¿Qué evidencia respalda mejor tu conclusión y cuál es su principal limitación?
+**2. Interpretación. Identificación de agregados plaquetarios vs. inclusiones:** Si detectas acumulaciones violáceas de pequeño tamaño, ¿qué características morfológicas o metodológicas te permiten diferenciar si se trata de agrupaciones plaquetarias reales o de un precipitado de azures de metileno?
 
    [Respuesta del alumnado]
 
-**4. Aprendizaje y transferencia:** ¿Qué mejorarías y cómo aplicarías este aprendizaje a otra técnica hematológica?
+**3. Conclusiones. Nitidez de estructuras citoplasmáticas y nucleares:** ¿En qué elementos formes específicos o estructuras celulares se aprecia con mayor claridad la ventaja del efecto Romanowsky de la tinción combinada?
+
+   [Respuesta del alumnado]
+
+**4. Aprendizaje y transferencia. Bioseguridad y gestión de residuos químicos:** ¿Qué hábito o medida de seguridad de la manipulación de metanol y colorantes es más eficaz para reducir riesgos ambientales y laborales?
 
    [Respuesta del alumnado]
 
@@ -257,9 +321,11 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen de evidencia | [Completa] |
 | Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
+| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Resultado | [Resume o enlaza al apartado 9.1] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones | [Resume o enlaza al apartado 11] |
 | Ruta de residuos | [Completa o «No aplica»] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+
+ 
