@@ -1,4 +1,3 @@
-
 ---
 title: "P06 — Tinción de May-Grünwald-Giemsa"
 practice_id: "P06"
