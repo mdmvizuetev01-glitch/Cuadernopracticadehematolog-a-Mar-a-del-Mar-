@@ -130,7 +130,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | Punzocortantes |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
