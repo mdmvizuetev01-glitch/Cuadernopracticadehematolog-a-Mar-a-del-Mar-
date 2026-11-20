@@ -108,13 +108,13 @@ Consulta de las referencias enlazadas: **12/10/2026**. No se ha identificado un 
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
+- **Nombre y apellidos:** María del Mar Vizuete
 - **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada — excedente EDTA / real autorizada — sangre capilar propia / demostración / simulada / documental; describe]
-- **Origen y código docente de la muestra:** [Laboratorio/banco de sangre o propia; código no identificativo, sin datos clínicos]
+- **Grupo:** 2º LCB 
+- **Pareja de trabajo, si procede:** Grupo 4
+- **Rol o tarea principal:** Técnico de laboratorio 
+- **Modalidad realmente realizada:**  Real autorizada — sangre capilar propia
+- **Origen y código docente de la muestra:** Sangre propia 
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -124,13 +124,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera microscopio u otros equipos realmente autorizados; si no usas ninguno, «No aplica»] |
-| Reactivos/materiales | [Portaobjetos, extensor, material de transferencia autorizado, muestra aprobada, guantes, antiséptico si procede y material de limpieza] |
+| Instrumental | Lanceta estéril, capilar,  |
+| Equipos | No aplica |
+| Reactivos/materiales | Portaobjetos, portaobjetos extensor, material de transferencia autorizado, guantes,bata, antiséptico  y material de limpieza] |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | Punzocortantes |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
