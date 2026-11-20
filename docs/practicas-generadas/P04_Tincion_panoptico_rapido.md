@@ -100,12 +100,12 @@ El frotis sanguíneo debe proceder de la [preparación P03](P03_Preparacion_exte
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
+- **Nombre y apellidos:** María del Mar Vizuete 
 - **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
+- **Grupo:** 2ºLCB
+- **Pareja de trabajo, si procede:** Grupo 4 
+- **Rol o tarea principal:** Técnico de laboratorio
+- **Modalidad realmente realizada:** Real autorizada
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
