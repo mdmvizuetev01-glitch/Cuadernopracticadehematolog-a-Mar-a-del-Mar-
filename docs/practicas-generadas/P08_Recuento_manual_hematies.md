@@ -108,12 +108,12 @@ El procedimiento específico debe quedar contrastado con el modelo de cámara, e
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
+- **Nombre y apellidos:** María del Mar Vizuete 
+- **Fecha real de realización:** 19/11/26
+- **Grupo:** 2ºLCB 
+- **Pareja de trabajo, si procede:** Grupo 4
+- **Rol o tarea principal:** Técnico de laboratorio 
+- **Modalidad realmente realizada:** Real autorizada
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -124,9 +124,9 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Cámara de Neubauer, cubreobjetos, micropipeta de volumen adecuado y puntas |
+| Equipos | Microscopio óptico |
+| Reactivos/materiales |Bata y EPI, lanceta estéril,antiséptico,gasas y contenedor de punzocortantes,líquido de Hayem|
 
 | Residuo previsto | Tipo |
 |---|---|
