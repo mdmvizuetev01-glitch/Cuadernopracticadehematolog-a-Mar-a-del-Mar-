@@ -113,7 +113,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 |---|---|
 | Autorización o modalidad asignada | Autorización|
 | PNT, fuente o material docente consultado |OMS, procedimiento normalizado de Giemsa para frotis de malaria (SOP 07a)  |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
+| Equipo/material realmente utilizado | Microscoscopio óptico, cristalizador, puente de tinción  |
 | Medidas de seguridad aplicadas | [Completa o «No aplica»] |
 | Condición de los datos (real/simulada/documental) | Real |
 
