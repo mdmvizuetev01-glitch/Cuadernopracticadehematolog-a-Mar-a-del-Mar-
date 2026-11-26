@@ -117,7 +117,7 @@ Fecha de consulta de las referencias enlazadas: **24/11/2026**.
 - **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
 - **Rol o tarea principal:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
-- **Caso elegido:** [A / B / C / D; solo uno]
+- **Caso elegido:**  D
 - **Código o descripción del material/dataset:** [Caso ficticio P12; no incluyas datos personales o clínicos]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -128,13 +128,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Calculadora básica, si se utiliza; de lo contrario, «No aplica»] |
+| Instrumental |Calculadora básica |
 | Equipos | No aplica; actividad documental sin analizador ni muestra. |
-| Reactivos/materiales | [Tabla del caso elegido, material de escritura y hoja auxiliar, si se utiliza] |
+| Reactivos/materiales | Tabla del caso elegido, material de escritura y hoja auxiliar |
 
 | Residuo previsto | Tipo |
 |---|---|
-| Papel usado, si se desecha | [Urbanos o asimilables a los urbanos / No aplica si se conserva] |
+| Papel usado, si se desecha |No aplica si se conserva|
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -191,14 +191,14 @@ Completa **una sola** de las cuatro tablas. Los valores facilitados son ficticio
 
 | Abreviatura del parámetro | Nombre del parámetro | Definición | Fórmula de cálculo | Valor |
 |---|---|---|---|---|
-| RBC |  |  |  | 6,30 × 10¹²/L |
-| Hb |  |  |  | 185 g/L |
-| Hct |  |  |  | 56 % |
-| VCM |  |  |  |  |
-| HCM |  |  |  |  |
-| CHCM |  |  |  |  |
-| DE_VCM | Desviación estándar de la distribución de volúmenes eritrocitarios |  |  | 12,2 fL |
-| RDW-CV |  |  |  |  |
+| RBC | Recuento total eritrocitario  | Mide la cantidad de eritrocitos que hay por volumen de sangre | HCT x 10/ VCM | 6,30 × 10¹²/L |
+| Hb | Hemoglobina  | Mide la cantidad de proteína por unidad de volumen | RCBxHCM/10 | 185 g/L |
+| Hct | Hematocrito | Representa la proporción de eritrocitos respecto al total de la sangre | RCBxVCM/10 | 56 % |
+| VCM | Volumen corpuscular medio | Mide el volumen medio de los eritrocitos | HCTx10/RCB |8,88 x 10^-11 fl |
+| HCM | Hemoglobina corpuscular media   | Representa el paso promedio de hemoglobina que hay en cada eritrocito | Hbx10/RCB | 2,94 x 10^-10 pg  |
+| CHCM | Concentración de hemoglobina corpuscular media   | Corresponde a la concentración media de hemoglobina que hay en los eritrocitos  | Hbx100/HCT |330,35%  |
+| DE_VCM | Desviación estándar de la distribución de volúmenes eritrocitarios |Mide cuánto se dispersan los tamaños de los eritrocitos respecto a su volumen medio. |  | 12,2 fL |
+| RDW-CV | Amplitud de la distribución eritrocitaria | Mide la diferencia de tamaños de eritrocitos | DEvcm/VCMx100 |  |
 
 ## 10. Evidencias visuales [PROFESOR · FIJO]
 
