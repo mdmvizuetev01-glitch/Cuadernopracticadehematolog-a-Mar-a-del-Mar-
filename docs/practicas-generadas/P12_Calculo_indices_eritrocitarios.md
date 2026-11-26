@@ -197,8 +197,8 @@ Completa **una sola** de las cuatro tablas. Los valores facilitados son ficticio
 | VCM | Volumen corpuscular medio | Mide el volumen medio de los eritrocitos | HCTx10/RCB |8,88 x 10^-11 fl |
 | HCM | Hemoglobina corpuscular media   | Representa el paso promedio de hemoglobina que hay en cada eritrocito | Hbx10/RCB | 2,94 x 10^-10 pg  |
 | CHCM | Concentración de hemoglobina corpuscular media   | Corresponde a la concentración media de hemoglobina que hay en los eritrocitos  | Hbx100/HCT |330,35%  |
-| DE_VCM | Desviación estándar de la distribución de volúmenes eritrocitarios |Mide cuánto se dispersan los tamaños de los eritrocitos respecto a su volumen medio. |  | 12,2 fL |
-| RDW-CV | Amplitud de la distribución eritrocitaria | Mide la diferencia de tamaños de eritrocitos | DEvcm/VCMx100 |  |
+| DE_VCM | Desviación estándar de la distribución de volúmenes eritrocitarios |Mide cuánto se dispersan los tamaños de los eritrocitos respecto a su volumen medio. |  DEVCM = √(Σ(x − VCM)² / N)| 12,2 fL |
+| RDW-CV | Amplitud de la distribución eritrocitaria | Mide la diferencia de tamaños de eritrocitos | DEvcm/VCMx100 | 13,72% |
 
 ## 10. Evidencias visuales [PROFESOR · FIJO]
 
@@ -208,13 +208,15 @@ La actividad es documental y no requiere fotografías de muestras, equipos ni pr
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | - | -| No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Clasifica el caso elegido como microcítico, normocítico o macrocítico según el VCM; valora la concentración de Hb con la CHCM y la variación del tamaño con RDW-CV. Indica si Hb/Hct/RBC muestran anemia o eritrocitosis según los intervalos adultos facilitados por el docente o consultados en fuentes médicas rigurosas. Separa datos, cálculos e interpretación; no formules un diagnóstico.
 
-[Escribe aquí tu interpretación técnica.]
+El caso presenta un patrón normocítico y normocrómico, ya que el VCM es de 88,89 fL y la CHCM de 33,04 g/dL. El RDW-CV es del 13,72 %, lo que indica que no existe un aumento significativo de la variabilidad del tamaño de los eritrocitos.
+
+Por otra parte, la hemoglobina (185 g/L), el hematocrito (56 %) y el recuento eritrocitario (6,30 × 10¹²/L) están elevados respecto a los intervalos de referencia adultos consultados. Estos resultados son compatibles con un patrón de eritrocitosis y no muestran datos de anemia.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
