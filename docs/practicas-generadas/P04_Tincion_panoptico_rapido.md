@@ -116,14 +116,14 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Portaobjetos con frotis P03, puente/gradilla de tinción, tres recipientes compatibles de boca ancha, papel absorbente, frasco lavador, pipeta Pasteur solo si el protocolo la requiere] |
-| Equipos | [Microscopio óptico; objetivo utilizado y aceite de inmersión si procede] |
-| Reactivos/materiales | [Kit panóptico rápido nº 1, nº 2 y nº 3; tampón/líquido de aclarado autorizado; EPI según FDS/PNT] |
+| Instrumental | Portaobjetos con frotis P03, puente de tinción, tres recipientes compatibles de boca ancha, papel absorbente, frasco lavador, pipeta Pasteur|
+| Equipos | Microscopio óptico; objetivo utilizado y aceite de inmersión si procede |
+| Reactivos/materiales | Kit panóptico rápido nº 1, nº 2 y nº 3, líquido de aclarado autorizado EPI  |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Material desechable con sangre] | [Biológicos o infecciosos] |
-| [Portaobjetos roto contaminado, si lo hubiera] | [Punzocortantes] |
+| [Material desechable con sangre] | Biológicos o infecciosos|
+| [Portaobjetos roto contaminado, si lo hubiera] | Punzocortantes |
 | [Residuos no contaminados que el centro permita] | [Urbanos o asimilables a los urbanos] |
 
 Las soluciones de tinción y el papel con restos de reactivo pueden ser residuos químicos peligrosos: no se incluyen en los tres tipos de la tabla y se gestionan por la ruta específica que determinen las FDS y el centro. Escribe «No aplica» en las filas que no correspondan.
@@ -136,7 +136,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [No aplica, salvo cálculo expresamente solicitado por el docente] |
+| Cálculos (si procede) | No aplica |
 | Configuración de equipos (si procede) | [Identifica microscopio y objetivo empleados; anota solo la configuración realmente usada y el uso de aceite si procede] |
 | Características del producto o resultado final | [Describe zona de lectura, contraste, fondo, precipitados, artefactos y conservación celular; indica código P03, origen/anticoagulante, modalidad, control disponible e incidencias. No interpretes como diagnóstico.] |
 
@@ -269,7 +269,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | - | - | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -281,7 +281,7 @@ Reconocer la secuencia funcional de fijación/tinción y evaluar una preparació
 
 ¿En qué medida el procedimiento aplicado a tu frotis de P03 permitió alcanzar el objetivo de obtener una tinción valorable? Justifica tu valoración a partir del resultado observado y señala la limitación que más condicionó la conclusión.
 
-[Escribe aquí tu conclusión.]
+
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -289,19 +289,19 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** Considerando que la técnica exige sumergir el portaobjetos 5 veces durante 1 segundo en cada uno de los tres reactivos, ¿qué consecuencias visuales tendría prolongar o reducir significativamente estos tiempos de inmersión?
 
-   [Respuesta del alumnado]
+Puede hacer que el portaobjetos no obtenga la tinción adecuada para las células sanguíneas o haya un exceso de tinción y no se pueda realizar una correcta visualización de las células sanguíneas
 
 **2. Interpretación:** Teniendo en cuenta que la eosina (Panóptico n.º 2) tiñe de rosáceo las estructuras básicas y el Panóptico n.º 3 tiñe de azulado las estructuras ácidas, ¿qué orgánulos o tipos celulares concretos presentes en la sangre se deberían ver con cada color?
 
-   [Respuesta del alumnado]
+Las estructuras ácidas obtendrán colorantes de color azul y las estructuras básicas obtendrán colorantes de color rosáceo
 
 **3. Conclusiones:** Imagina que concluyes que el resultado anómalo se debió a que la sangre era antigua. ¿Qué pruebas o evidencias visuales de tu observación microscópica te permitieron descartar que el error estuviera en una mala ejecución de la extensión sanguínea inicial?
 
-   [Respuesta del alumnado]
+Se puede comprobar ya que las células pierden su estructura original y se ven deformadas bajo el microscopio.
 
 **4. Aprendizaje y transferencia:** ¿Qué paso específico del proceso manual (la realización del frotis inicial, tinción, observación) crees que debes seguir perfeccionando para asegurar el éxito en futuras extensiones sanguíneas?
 
-   [Respuesta del alumnado]
+La realización del frotis
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
