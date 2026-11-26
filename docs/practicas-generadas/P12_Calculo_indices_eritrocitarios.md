@@ -254,15 +254,15 @@ Responde individualmente a partir del caso que elegiste.
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P12` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 26/11/26 |
 | UD / RA / CE | `UD4 / RA03 / CE03.a, CE03.b, CE03.d, CE03.f, CE03.g` |
 | Agrupamiento | Individual; una sola tabla de caso. |
-| Modalidad y origen de evidencia | [Completa] |
+| Modalidad y origen de evidencia | Caso con datos facilitados , sin muestra biológica ni medición propia. Trabajo de cálculo e interpretación. |
 | Materiales, equipo o fuente usados | [Completa o «No aplica»] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
 | Resultado | [Resume o enlaza al apartado 9.1] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones | [Resume o enlaza al apartado 11] |
 | Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | entregado |
 
