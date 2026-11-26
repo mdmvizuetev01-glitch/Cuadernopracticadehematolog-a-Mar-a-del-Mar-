@@ -310,7 +310,7 @@ La realización del frotis
 | Identificador de práctica | `P04` |
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD1 / RA01 / CE01.c, CE01.d, CE01.f` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | Grupo 4 |
 | Modalidad y origen de evidencia | [Completa] |
 | Materiales, equipo o fuente usados | [Completa o «No aplica»] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
