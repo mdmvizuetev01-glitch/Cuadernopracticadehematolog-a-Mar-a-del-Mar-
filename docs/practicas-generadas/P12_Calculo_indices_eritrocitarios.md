@@ -214,9 +214,6 @@ La actividad es documental y no requiere fotografías de muestras, equipos ni pr
 
 Clasifica el caso elegido como microcítico, normocítico o macrocítico según el VCM; valora la concentración de Hb con la CHCM y la variación del tamaño con RDW-CV. Indica si Hb/Hct/RBC muestran anemia o eritrocitosis según los intervalos adultos facilitados por el docente o consultados en fuentes médicas rigurosas. Separa datos, cálculos e interpretación; no formules un diagnóstico.
 
-El caso presenta un patrón normocítico y normocrómico, ya que el VCM es de 88,89 fL y la CHCM de 33,04 g/dL. El RDW-CV es del 13,72 %, lo que indica que no existe un aumento significativo de la variabilidad del tamaño de los eritrocitos.
-
-Por otra parte, la hemoglobina (185 g/L), el hematocrito (56 %) y el recuento eritrocitario (6,30 × 10¹²/L) están elevados respecto a los intervalos de referencia adultos consultados. Estos resultados son compatibles con un patrón de eritrocitosis y no muestran datos de anemia.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
