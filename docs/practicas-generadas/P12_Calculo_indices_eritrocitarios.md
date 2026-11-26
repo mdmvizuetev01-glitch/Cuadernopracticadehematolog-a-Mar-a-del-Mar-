@@ -212,14 +212,22 @@ La actividad es documental y no requiere fotografías de muestras, equipos ni pr
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Clasifica el caso elegido como microcítico, normocítico o macrocítico según el VCM; valora la concentración de Hb con la CHCM y la variación del tamaño con RDW-CV. Indica si Hb/Hct/RBC muestran anemia o eritrocitosis según los intervalos adultos facilitados por el docente o consultados en fuentes médicas rigurosas. Separa datos, cálculos e interpretación; no formules un diagnóstico.
+Clasifica el caso elegido como microcítico, normocítico o macrocítico según el VCM; valora la concentración de Hb con la CHCM y la variación del tamaño con RDW-CV. Indica si Hb/Hct/RBC muestran anemia o eritrocitosis según los intervalos adultos facilitados por el docente o consultados en fuentes médicas rigurosas. Separa datos, cálculos e interpretación; no formules un diagnóstico
 
-
+Los resultados obtenidos son un RBC de 6,30 × 10¹²/L, una hemoglobina de 185 g/L y un hematocrito del 56 %.
+Los índices eritrocitarios calculados son:
+VCM: 88,9 fL. Se encuentra dentro del intervalo de 80-100 fL, por lo que los eritrocitos presentan un tamaño normal y el patrón es normocítico.
+HCM: 29,4 pg. Indica la cantidad media de hemoglobina que contiene cada eritrocito.
+CHCM: 330,4 g/L. Se encuentra por encima de 300 g/L, por lo que no presenta hipocromía.
+RDW-CV: 13,7 %. Está dentro del intervalo didáctico de 11,5-15,7 %, indicando una variación del tamaño de los eritrocitos dentro de los valores habituales.
+Al comparar los valores de RBC, hemoglobina y hematocrito con los intervalos adultos habituales, se observa que los tres están elevados. Esto puede ser compatible con una eritrocitosis.
+Entre las posibles causas se encuentran la policitemia vera, la eritrocitosis secundaria por falta de oxígeno o la exposición a grandes altitudes. También puede producirse una eritrocitosis relativa por una disminución del volumen plasmático.
+Por tanto, el caso presenta un patrón normocítico, sin hipocromía y con RDW-CV normal, acompañado de valores elevados de eritrocitos, hemoglobina y hematocrito. Estos resultados no permiten establecer un diagnóstico, ya que serían necesarias otras pruebas complementarias y conocer los datos clínicos de la persona.
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿Has alcanzado el objetivo de calcular e interpretar el hemograma de serie roja del caso elegido? Justifica tu valoración a partir del patrón identificado, menciona patologías o causas que pueden cursar con él y explica por qué el hemograma aislado no permite establecer un diagnóstico.
 
-[Escribe aquí tu conclusión.]
+Sí, he alcanzado el objetivo. He calculado los índices eritrocitarios a partir de RBC, Hb, Hct y DE_VCM (VCM 88,9 fL, HCM 29,4 pg, CHCM 330 g/L, RDW-CV 13,7 %). He comprobado que reproducen los valores medidos y los he interpretado frente a intervalos de referencia de adultos, sin formular diagnóstico.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
