@@ -152,7 +152,17 @@ El agua saldrá hacia el exterior de la célula de la patata
 
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
 
-[Escribe aquí el resultado principal.]
+Escritura
+
+
+
+
+
+9.3 Resultado principal
+
+La práctica se realizó de forma real, utilizando porciones de patata sumergidas en agua destilada y en una disolución de NaCl. Tras el periodo de inmersión, se observó que las porciones de patata colocadas en agua destilada disminuyeron de tamaño y masa, contrariamente a lo esperado. Por otro lado, las porciones sumergidas en la disolución salina también perdieron masa.
+
+Se observó una mayor pérdida de masa en las patatas expuestas a la disolución salina, lo que concuerda con la influencia de la concentración de solutos sobre el movimiento del agua por ósmosis. El resultado obtenido en el agua destilada no coincidió con la hipótesis inicial, por lo que se consideró una incidencia experimental que debía tenerse en cuenta en la interpretación de los resultados.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -225,13 +235,27 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 Interpreta el cambio de masa observado en patata mediante la ósmosis y la tonicidad de los medios hipotónico e hipertónico. Explica qué patrón respaldan los datos, usa los controles y evidencias, y reconoce que el tejido vegetal es solo un modelo conceptual. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
+En esta práctica se estudió el movimiento del agua por ósmosis a través de las membranas celulares del tejido de patata, comparando dos medios con diferente concentración de solutos: agua destilada y una disolución de NaCl.
+
+Inicialmente, se planteó que las patatas sumergidas en agua destilada aumentarían su masa debido a la entrada de agua en sus células, mientras que las colocadas en la disolución salina perderían agua debido a la mayor concentración de solutos del medio externo.
+
+Sin embargo, los resultados obtenidos fueron diferentes de lo esperado en el agua destilada, ya que las porciones de patata disminuyeron de tamaño y masa. Este resultado no coincide con la hipótesis inicial y podría estar relacionado con factores experimentales, como el tiempo de exposición, las características del tejido utilizado, posibles diferencias entre las muestras o errores durante el secado y la pesada. No se puede afirmar que se produjera una lisis celular únicamente a partir de la pérdida de masa observada.
+
+En la disolución salina, la patata perdió masa, lo que se relaciona con la salida de agua desde las células hacia el medio externo, debido a la diferencia de concentración de solutos. Este resultado es compatible con el comportamiento esperado en un medio hipertónico.
+
+En general, los resultados permiten relacionar la concentración del medio con el movimiento del agua por ósmosis, aunque la anomalía observada en el agua destilada limita la interpretación. Por tanto, es necesario tener en cuenta las posibles incidencias experimentales y no atribuir todos los cambios observados exclusivamente a la tonicidad de las disoluciones.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué limitaciones tuvo la modalidad realmente realizada.
 
-[Escribe aquí tu conclusión.]
+En esta práctica se estudió el movimiento del agua por ósmosis a través de las membranas celulares del tejido de patata, comparando dos medios con diferente concentración de solutos: agua destilada y una disolución de NaCl.
+
+Inicialmente, se planteó que las patatas sumergidas en agua destilada aumentarían su masa debido a la entrada de agua en sus células, mientras que las colocadas en la disolución salina perderían agua debido a la mayor concentración de solutos del medio externo.
+
+Sin embargo, los resultados obtenidos fueron diferentes de lo esperado en el agua destilada, ya que las porciones de patata disminuyeron de tamaño y masa. Este resultado no coincide con la hipótesis inicial y podría estar relacionado con factores experimentales, como el tiempo de exposición, las características del tejido utilizado, posibles diferencias entre las muestras o errores durante el secado y la pesada. No se puede afirmar que se produjera una lisis celular únicamente a partir de la pérdida de masa observada.
+
+En la disolución salina, la patata perdió masa, lo que se relaciona con la salida de agua desde las células hacia el medio externo, debido a la diferencia de concentración de solutos. Este resultado es compatible con el comportamiento esperado en un medio hipertónico.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -239,32 +263,32 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué parte del procedimiento te ha resultado más compleja y cómo lo solucionaste o afrontaste?
 
- Me ha resultado más complicado después de haber sacado las porciones de patata de los botes tras 48 h
+ La parte que me ha resultado más compleja ha sido retirar las porciones de patata de los recipientes después del tiempo de inmersión, ya que llevaban aproximadamente 48 horas y algunas habían cambiado de tamaño y consistencia. 
 **2. Interpretación:** ¿Qué ha ocurrido en la patata tras 24 horas en las diferentes soluciones? ¿Por qué?
 
-   [Respuesta del alumnado]
+En el agua destilada, la patata perdió masa y disminuyó de tamaño, aunque inicialmente esperaba que aumentara al entrar agua en sus células. En la disolución salina, la patata también perdió masa, debido a que el medio tenía una mayor concentración de solutos y favorecía la salida de agua de las células por ósmosis. La pérdida de masa en el agua destilada fue un resultado inesperado, que podría estar relacionado con el tiempo de exposición o con otros factores experimentales.
 
 **3. Conclusiones:** Relaciona los fenómenos osmóticos con el resultado de tu práctica.
 
-   [Respuesta del alumnado]
+La práctica me ha permitido comprobar que la ósmosis está relacionada con las diferencias de concentración entre el interior y el exterior de las células, lo que provoca un movimiento de agua a través de las membranas. En la disolución salina, la pérdida de masa de la patata fue coherente con la salida de agua hacia el medio hipertónico. Sin embargo, el resultado del agua destilada no fue el esperado, por lo que es importante valorar las posibles incidencias y no dar por hecho que todos los resultados experimentales coinciden con la teoría.
 
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica se basa en el mismo principio? Justifica o explica tu respuesta.
 
-   [Respuesta del alumnado]
+Una técnica hematológica que se basa en el mismo principio es la determinación de la fragilidad osmótica eritrocitaria. Esta técnica estudia cómo reaccionan los eritrocitos ante diferentes concentraciones de soluciones salinas. En un medio hipotónico, los eritrocitos absorben agua, aumentan su volumen y pueden llegar a romperse, produciéndose hemólisis. En un medio hipertónico, pierden agua y se encogen. Esta técnica se relaciona con la práctica de la patata porque ambas permiten comprender el movimiento del agua por ósmosis, aunque las células vegetales y los eritrocitos presentan diferencias estructurales y no responden exactamente de la misma manera.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 29/09/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.c` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
+| Agrupamiento | Trabajo con Leire, Marta, Sofía y Susana] |
+| Modalidad y origen de evidencia | Real autorizada. Observaciones y resultados obtenidos durante la práctica presencial |
+| Materiales, equipo o fuente usados | Material de laboratorio, patata, NaCl, agua destilada, balanza, probeta, recipientes y utensilios de preparación y corte |
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 9.3] |
 | Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Incidencias y acciones |  	Apartado 11. Pérdida de masa inesperada en agua destilada; revisar tiempo de exposición y condiciones experimentales|
+| Ruta de residuos | Eliminación de restos vegetales y disoluciones conforme a las indicaciones del profesorado y del centro |
+| Estado de entrega | Entregado|
